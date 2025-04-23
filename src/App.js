@@ -14,6 +14,7 @@ function App() {
     <Router>
       <Header />
         <Route path='/' exact component= {HomePages} />
+    <Home></Home>
     </Router>
   );
 
